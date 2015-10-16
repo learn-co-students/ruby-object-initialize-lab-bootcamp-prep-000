@@ -24,4 +24,4 @@ Define a `Dog` class in `lib/dog.rb` that provides an `#initialize` method that 
 
 Additionally, `Dog#initialize` should accept a second optional argument for the dog's breed stored in an instance variable `@breed`. When none is provided, it should default to "Mut".
 
-Submit your solution with `learn submit`
+Submit your solution with `learn submit`.
