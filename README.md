@@ -10,6 +10,8 @@
 
 You're going to be building a `Person` class that accepts a person's name when a person is initialized. You're also going to be building a `Dog` class that accepts a dog's name and breed on initialization. If no value for the dog's breed is provided, it should default to `"Mut"`
 
+test
+
 ## Instructions
 
 Open this lab with `learn open` and run the tests with `learn`.
@@ -25,5 +27,3 @@ Define a `Dog` class in `lib/dog.rb` that provides an `#initialize` method that 
 Additionally, `Dog#initialize` should accept a second optional argument for the dog's breed stored in an instance variable `@breed`. When none is provided, it should default to "Mut".
 
 Submit your solution with `learn submit`.
-
-<a href='https://learn.co/lessons/ruby-object-initialize-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
