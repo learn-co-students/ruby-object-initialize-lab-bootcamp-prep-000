@@ -26,4 +26,4 @@ Additionally, `Dog#initialize` should accept a second optional argument for the 
 
 Submit your solution with `learn submit`.
 
-<a href='https://learn.co/lessons/ruby-object-initialize-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-initialize-lab' title='Ruby Object Initialize Lab'>Ruby Object Initialize Lab</a> on Learn.co and start learning to code for free.</p>
