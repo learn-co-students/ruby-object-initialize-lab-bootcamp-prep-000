@@ -4,6 +4,7 @@ class Person
     @name = name
   end
 
+#code below not needed
   def name=(name)
     @name = name
   end
@@ -11,6 +12,6 @@ class Person
   def name
     @name
   end
-
+#
 
 end
