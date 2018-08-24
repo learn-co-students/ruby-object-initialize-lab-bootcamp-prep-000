@@ -1,7 +1,6 @@
-class Dog
-  def initialize(new_name, new_breed="Mutt")
+class Person
+  def initialize(new_name)
     @name = new_name
-    @breed = new_breed
   end
   def name=(new_name)
     @name = new_name
@@ -9,17 +8,17 @@ class Dog
   def name
     @name
   end
-  def breed=(new_breed)
-    @breed = new_breed
+  def job=(new_job)
+    @job = new_job
   end
-  def breed
-    @breed
+  def job
+    @job
   end
-  def bark()
-    puts 'Woof!'
+  def talk()
+    puts "Hello World!"
   end
 
-  def sit()
-    puts "The Dog is sitting"
+  def walk()
+    puts "The Person is walking"
   end
 end
